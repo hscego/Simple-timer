@@ -1,4 +1,3 @@
-
 import time
 
 def simple_timer(seconds):
